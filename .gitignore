@@ -5,6 +5,7 @@
 
 /postgres
 /.env
+/static/*
 
 # Logs
 logs
