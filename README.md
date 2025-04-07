@@ -22,14 +22,14 @@ yarn install
 docker-compose up -d
 ```
 
-6. Ejecutar SEED para llenar la base de datos
-
-```
-http://localhost:3000/seed
-```
-
-7. Levantar el servidor
+6. Levantar el servidor
 
 ```
 yarn start:dev
+```
+
+7. Ejecutar SEED para llenar la base de datos
+
+```
+http://localhost:3000/seed
 ```
